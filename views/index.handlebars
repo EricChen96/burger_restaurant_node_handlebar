@@ -4,12 +4,12 @@
 
 <ul>
   {{#each burgers}}
+  {{#unless devoured}}
   <div>
     {{id}}. {{burger_name}}
-    {{#unless devoured}}
-    {{> cats/cat-block sleep=true}}
-    {{/unless}}
+    {{> burgers/burger-block}}
   </div>
+  {{/unless}}
   {{/each}}
 </ul>
 
@@ -17,12 +17,11 @@
 
 <ul>
   {{#each burgers}}
+  {{#if devoured}}
   <div>
     {{id}}. {{burger_name}}
-    {{#unless devoured}}
-    {{> cats/cat-block sleep=true}}
-    {{/unless}}
   </div>
+  {{/if}}
   {{/each}}
 </ul>
 
