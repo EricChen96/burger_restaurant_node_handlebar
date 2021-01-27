@@ -3,8 +3,9 @@
 
 ![burger_restaurant](./employee_tracker_screenshot.png)
 
-[Link to Github repository](https://github.com/EricChen96/employee_tracker) <br>
+[Link to Github repository](https://github.com/EricChen96/burger_restaurant_node_handlebar) <br>
 [Link to video](https://www.youtube.com/watch?v=VYLSAFX2JLY&feature=youtu.be) <br>
+[Link to site](https://burger-restaurant-handlebar.herokuapp.com/) <br>
 
 ## Description
 The following code creates an app that allows the user to access a mySQL database and add burgers to be devoured. 
