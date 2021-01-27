@@ -1,10 +1,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # burger_restaurant_node_handlebar
 
-![burger_restaurant](./employee_tracker_screenshot.png)
+![burger_restaurant](./public/assets/screenshots/main_page_screenshot.png)
 
 [Link to Github repository](https://github.com/EricChen96/burger_restaurant_node_handlebar) <br>
-[Link to video](https://www.youtube.com/watch?v=VYLSAFX2JLY&feature=youtu.be) <br>
 [Link to site](https://burger-restaurant-handlebar.herokuapp.com/) <br>
 
 ## Description
